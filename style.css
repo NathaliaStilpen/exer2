@@ -1,0 +1,116 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+
+.nav-cont {
+    background-color: rgb(30, 122, 138);
+    margin: auto;
+    padding-bottom: 10px;
+
+}
+
+.inp{
+    width: 80%;
+}
+
+.todos{
+    width: 5%;
+}
+
+
+
+.nave{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.nave select, .nave input{
+    padding: 5px;
+    
+    
+}
+
+.nave button {
+    padding: 2px 4px;
+    background-color: rgb(133, 188, 197);
+    border: 1px solid black;
+    border-radius: 0px;
+    cursor: pointer;
+    margin: 0;
+}
+
+.nave button img {
+    width: 20px;
+   
+}
+
+
+
+main{
+    background-color: rgb(122, 173, 185);
+    
+}
+
+.cards img {
+    width: 100%;
+    height: 150px;
+}
+
+h1{
+    padding: 4%;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+p{
+    font-size: 15px;
+}
+
+.container{
+    
+    width: 70%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.cards{
+    border: 1px solid white;
+    border-radius: 5%;
+    width: 20%;
+    display: inline-block;
+    margin:  0.5% auto;
+    padding: 15px;
+    background-color: white;
+    
+}
+
+.bot{
+    text-align: center;
+    
+}
+
+button{
+    background-color: rgb(30, 122, 138);
+    color: white;
+    border-radius: 20px;
+    padding: 2% 8%;
+    border: 1px solid white;
+    margin-top: 8px;
+    
+}
+
+.footer{
+    text-align: center;
+    padding: 20px;
+}
+
